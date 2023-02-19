@@ -42,7 +42,7 @@ li {
     color: #504946;
     font-family: 'Lemonada', cursive;
     font-weight: 900;
-    font-size: 5px;
+    font-size: 12px;
 }
 
 main {
@@ -136,7 +136,7 @@ a {
 button {
     font-family: 'Lemonada', cursive;
     font-weight: 300;
-    font-size: 5px;
+    font-size: 11px;
     position: relative;
     top: 60%;
     left: 42%;
